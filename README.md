@@ -1,4 +1,3 @@
-# Aplicaciones_moviles
 # Proyecto: Seguimiento de Embarazo
 
 ## Descripción
